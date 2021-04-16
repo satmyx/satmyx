@@ -1,6 +1,6 @@
 ### ⛩️ Fondateur - LPM ⛩️ <img align="right" height="100" src="https://raw.githubusercontent.com/satmyx/satmyx/main/images/Logoadmin.png">
 
-**👴 Ancien fondateur Eterna**
+**👴 Ancien Fondateur Eterna 👴**
 
 **🎮 Jeux :** Arma III | Garry's MOD | FiveM
 
