@@ -1,4 +1,4 @@
-### ⛩️ Fondateur - LPM ⛩️ <img align="right" height="120" src="https://raw.githubusercontent.com/satmyx/satmyx/main/images/Logoadmin.png">
+### ⛩️ Fondateur - LPM ⛩️ <img align="right" height="100" src="https://raw.githubusercontent.com/satmyx/satmyx/main/images/Logoadmin.png">
 
 **🎮 Jeux :** Arma III | Garry's MOD | FiveM
 
