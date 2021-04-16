@@ -1,6 +1,6 @@
 ### Fondateur - LPM
 
-**Game :** Arma III | Garry's MOD | FiveM
+**Jeux :** Arma III | Garry's MOD | FiveM
 
 **Map :** rp_kaisen_lpm_v1
 
