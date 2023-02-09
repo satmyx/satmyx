@@ -1,8 +1,8 @@
 <div align="center">
-  <img style="border-radius: 50%;" src="https://media.tenor.com/zHi1yy-QyTUAAAAd/anime-train.gif" height="250" width="945" alt="banner"  />
+  <img src="https://media.tenor.com/zHi1yy-QyTUAAAAd/anime-train.gif" height="250" width="945" alt="banner"  />
 </div>
 
-## 🎴 Langages
+## 🎴 Technologie
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="30" width="42" alt="symfony logo"  />
@@ -35,8 +35,8 @@
 ## 🧮 Statistiques
 
 <a href="https://github.com/satmyx/satmyx">
-  <img align="center" width="415" src="https://github-readme-stats-84epz4g6d-satmyx.vercel.app/api?username=satmyx&show_icons=true&theme=dark"/>
+  <img align="left" width="415" src="https://github-readme-stats-84epz4g6d-satmyx.vercel.app/api?username=satmyx&show_icons=true&theme=dark"/>
 </a>
 <a href="https://github.com/satmyx/satmyx">
-  <img align="center" src="https://github-readme-stats-woad-one-36.vercel.app/api/top-langs/?username=satmyx&layout=compact&theme=dark" />
+  <img align="right" src="https://github-readme-stats-woad-one-36.vercel.app/api/top-langs/?username=satmyx&layout=compact&theme=dark" />
 </a>
