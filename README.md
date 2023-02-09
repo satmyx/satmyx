@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/zHi1yy-QyTUAAAAd/anime-train.gif" alt="banner"  />
+  <img src="https://media.tenor.com/zHi1yy-QyTUAAAAd/anime-train.gif" height="945" width="250" alt="banner"  />
 </div>
 
 ## 🎴 Langages
