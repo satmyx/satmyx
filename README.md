@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://media.tenor.com/zHi1yy-QyTUAAAAd/anime-train.gif" alt="banner"  />
+</div>
+
 ## 🎴 Langages
 
 <div align="left">
