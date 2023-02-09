@@ -8,11 +8,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo"  />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" height="30" width="42" alt="tailwindcss logo"  />
-</div>
-
 [![My Skills](https://skillicons.dev/icons?i=js,webpack,html,css,bootstrap,tailwind&perline=6)](https://github.com/satmyx)
 
 ###
@@ -21,6 +16,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" width="42" alt="oracle logo"  />
 </div>
+
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://github.com/satmyx)
 
 ###
 
