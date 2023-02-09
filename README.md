@@ -2,7 +2,7 @@
   <img src="https://media.tenor.com/zHi1yy-QyTUAAAAd/anime-train.gif" height="250" width="945" alt="banner"  />
 </div>
 
-## 🎴 Technologie
+## 🎴 Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=symfony,cs,lua,py,php&perline=5)](https://github.com/satmyx)
 
