@@ -16,7 +16,7 @@
 
 ###
 
-## 🎴 UI Design
+## 🎨 UI Design
 
 [![My Skills](https://skillicons.dev/icons?i=figma,ai,ps,xd&perline=4)](https://github.com/satmyx)
 
