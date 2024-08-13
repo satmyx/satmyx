@@ -4,7 +4,7 @@
 
 ## 🎴 Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=symfony,wordpress,cs,lua,py,php&perline=5)](https://github.com/satmyx)
+[![My Skills](https://skillicons.dev/icons?i=symfony,wordpress,cs,lua,py,php&perline=6)](https://github.com/satmyx)
 
 ###
 
@@ -15,6 +15,10 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://github.com/satmyx)
 
 ###
+
+## 🎴 UI Design
+
+[![My Skills](https://skillicons.dev/icons?i=figma,ai,ps,xd&perline=4)](https://github.com/satmyx)
 
 ## 🧮 Statistiques
 
